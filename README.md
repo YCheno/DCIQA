@@ -6,4 +6,4 @@
 
 Large-Scale Cartoon IQA Dataset download: [Google Drive](https://drive.google.com/file/d/1CTWb-_CB4J6HlG3YR7ymIfKIT70NNFVs/view?usp=sharing)
 
-Real-world cartoon test set download: [Google Drive](https://drive.google.com/file/d/1fTMgB-aIJzW-HIWPPJ20RtCjIIra7x6t/view?usp=sharing)
+Real-world cartoon test set download: [Google Drive](https://drive.google.com/file/d/1wiHvwoNm9TLCxpiRQLkMffV7zizeee31/view?usp=sharing)
